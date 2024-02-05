@@ -1,0 +1,6 @@
+require("plugins")
+require("completions")
+require("lsp")
+require("options")
+require("treesitter")
+require("remap")
